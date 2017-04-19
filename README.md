@@ -41,7 +41,8 @@ Let's add some color and gradient:
 ![img 6](https://pp.userapi.com/c639418/v639418165/3983f/AmOhUtbdXL4.jpg)
 ## Map: julia
 ![img 7](https://pp.userapi.com/c639418/v639418165/39878/die6jioFOzE.jpg)
-Some additional features, like real time recalculating/redrawing result image using the keyboard control. Here is some examples:  
+And in conclusion, some additional features, like real time recalculating/redrawing result image using the keyboard control.  
+Here is some examples:  
 ![gif 1](https://github.com/kandreyc/additionalthing/blob/master/04.gif)
 ![gif 2](https://github.com/kandreyc/additionalthing/blob/master/07.gif?raw=true)
  
